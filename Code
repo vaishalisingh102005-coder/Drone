@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+< lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<!-- Header section -->
+ <h1>INTRODUCING FLYHIGH DRONE</h1>
+ <p>The<strong> Flyhigh</strong>is an advanced<em> drone </em> built for aerial , photography , racing and exploration 
+    <hr>
+
+    <!-- Feature section -->
+     <h2>KEY FEATURES</h2>
+     <p> <pre><big>Captures stunning videos with <u>4k Ultra HD Camera</u> 
+     Wide-angle lens with image stabilization 
+    Real-time FPV (FIRST PERSON VIEW)
+    Long battery life and fast charging 
+    Auto return to home on low battery or signal loss 
+    No fly zone alerts</big></p></pre>
+    <!-- Price -->
+     <p><big> <b>Now get it for <del>$999</del> $699 !!!</b></big></p>
+
+     <!-- Product image -->
+    <img src = "data:image/jpeg;base64,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" alt="PRODUCT IMAGE">
+    <img src="/drone.jpg" alt="drone">
+    <br><br>
+     <!--order List -->
+     <h3>ADVANTAGES</h3>
+     <OL>
+        <li>Up to 40 minutes flight time</li>
+        <li>Light weight carbon-fibre body</li>
+        <li>Obstacle avoidance sensors</li>
+        
+     </OL>
+
+     <!-- unordered list -->
+      <h3>What you get inside the box</h3>
+      <ul>
+        <li>FLYHIGH X DRONE</li>
+        <li>REMOTE CONTROLLER</li>
+        <li>FAST CHARGER</li>
+        <li>USER MANUAL</li>
+      </ul>
+
+      <!-- table section -->
+       <h2>Drone comparison table</h2>
+       
+        <table border = "1">
+        <tr>
+            <th>Model</th>
+            <th>Flight time</th>
+            <th>Camera</th>
+            <th>Price</th>
+
+        </tr>
+        <tr>
+            <td>Flyhigh X</td>
+            <td> 40 minutes</td>
+            <td> 4k Ultra HD</td>
+            <td>$699</td>
+        </tr>
+        <tr>
+            <td> Flyhigh mini</td>
+            <td> 20 minutes</td>
+            <td> 1080 Ultra HD</td>
+            <td> $399</td>
+
+        </tr>
+    </table>
+        <br>
+
+        <!-- external links -->
+
+        <p> Check more drone reviews at 
+            <a href="https://dronelife.com/" target="_blank">Dronelife</a>
+        </p>
+
+        <!-- footer -->
+         <p>&copy:2025 flyhigh technology. All rights are reserved</p>
+       
+    </p>
+    <body/>
+    </html>
+
